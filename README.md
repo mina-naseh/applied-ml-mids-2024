@@ -12,7 +12,18 @@ Throughout this course, you’ll dive into project-based assignments that build 
 Before jumping in, make sure you're comfortable with basic data analysis tools. Review some key resources on data handling and analysis (eg. pandas, scikit-learn, and more). This course will challenge you to think, code, and develop solutions that can be applied to real-world problems.
 
 ### 🔑 Key Information
-- **Part 1 Deadline:** October 15
+
+#### Classes
+- Session 1: September 18
+- Session 2: October 16
+- Session 3: November 6
+- Project Presentation: TBD
+- Paper Presentation: TBD
+
+### Deadlines
+- Part 1: October 15
+- Part 2: November 6
+- Part 3: TBD
 
 ## 📊 Grading
 - **Part 1:** 20%
@@ -21,6 +32,11 @@ Before jumping in, make sure you're comfortable with basic data analysis tools. 
 - **Presentation:** 20%
 - **Paper Review:** 20%
 
+## Contact Information
+- Yann Hoffmann
+- Email: [yann.hoffmann@uni.lu](mailto:yann.hoffmann@uni.lu)
+- Fabien Bernier
+- Email: [fabien.bernier@uni.lu](mailto:fabien.bernier@uni.lu)
 
 
 🌍 University of Luxembourg | Master in Data Science (MIDS)
