@@ -32,6 +32,11 @@ Before jumping in, make sure you're comfortable with basic data analysis tools. 
 - **Presentation:** 20%
 - **Paper Review:** 20%
 
+## Contact Information
+- Yann Hoffmann
+- Email: [yann.hoffmann@uni.lu](mailto:yann.hoffmann@uni.lu)
+- Fabien Bernier
+- Email: [fabien.bernier@uni.lu](mailto:fabien.bernier@uni.lu)
 
 
 🌍 University of Luxembourg | Master in Data Science (MIDS)
